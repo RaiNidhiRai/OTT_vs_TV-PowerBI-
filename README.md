@@ -1,4 +1,4 @@
-# OTT_vs_TV-PowerBI-
+# OTT_vs_TV-PowerBI
 ANALYTIC PROJECTS
 
 Using Microsoft Power BI, I prepared an analytical dashboard on OTT vs TV data. The dataset was downloaded in Excel format through Kaggle. [https://lnkd.in/eZvxe4rN]
