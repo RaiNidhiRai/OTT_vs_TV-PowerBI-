@@ -10,3 +10,4 @@ GRAPH 3: Number of data collected from each age group.
 OVERVIEW: Graph Type- Pie Chart.
 GRAPH 4: Top 5 most preferred OTT platforms.
 OVERVIEW: Graph Type- Treemap
+![image](https://github.com/user-attachments/assets/954ecd75-19f2-4303-a45b-9b5e6541a1b9)
